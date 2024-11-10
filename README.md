@@ -1,4 +1,4 @@
 ## Hello everyone 👋
 
 #### About
-I'm a Web Development student hh
+Currently studying web programming at [Rocketseat] (https://rocketseat.com.br/)
