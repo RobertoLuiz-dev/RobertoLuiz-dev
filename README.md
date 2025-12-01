@@ -1,7 +1,7 @@
 ## Hello everyone 💬 🌐
 
 #### 📌 About
-Currently studying web programming at [Rocketseat] (https://rocketseat.com.br/)
+Web Programming Intern at UpTech Group – UpTech Software + UpTech School | Agronomist Engineer graduated from UFRPE
 
 #### 📈 Current stack
 - Tolls: `VsCode`, `Figma`
